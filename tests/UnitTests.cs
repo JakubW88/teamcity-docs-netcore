@@ -1,14 +1,14 @@
 using System;
 using Xunit;
 
-namespace tests
+namespace tests 
 {
-    public class UnitTest1
+    public class UnitTests
     {
         [Fact]
         public void Test1()
         {
-
+            // does nothing, the best type of test!
         }
     }
 }

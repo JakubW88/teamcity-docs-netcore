@@ -7,7 +7,7 @@ namespace tests
     public class UnitTests
     {
         [Fact]
-        public void Test1()
+        public void AFirstTest1()
         {
             // does nothing, the best type of test!
         }
